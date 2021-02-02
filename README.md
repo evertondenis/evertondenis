@@ -1,4 +1,11 @@
-### Hi there 👋
+# :wave: Oi!
+
+My name is Everton Denis. I'm a Brazilian Front-end Developer.
+
+## 💻 Social Media
+
+ - Linkedin: https://www.linkedin.com/in/evertondenis/
+ - Twitter: https://twitter.com/evertondenis
 
 <!--
 **evertondenis/evertondenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
